@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 110" width="100%" height="100%">
+  <!-- Tajriba24.uz Pure Wordmark -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@900&amp;family=Outfit:wght@900&amp;display=swap');
+      .brand-navy {
+        font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        fill: #0B2540;
+      }
+      .brand-green {
+        font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        fill: #00A859;
+      }
+    </style>
+  </defs>
+
+  <g transform="translate(10, 80)">
+    <text x="0" y="0" class="brand-navy" font-size="78" letter-spacing="-1.5">Tajriba</text>
+    <text x="274" y="0" class="brand-green" font-size="78" letter-spacing="-1">24</text>
+    <text x="368" y="0" class="brand-navy" font-size="78" letter-spacing="-1">.uz</text>
+  </g>
+</svg>

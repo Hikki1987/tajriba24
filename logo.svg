@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 120" width="100%" height="100%">
+  <!-- Tajriba24.uz Official Master Logo (T24 Emblem + Wordmark) -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@800;900&amp;family=Outfit:wght@800;900&amp;display=swap');
+      .brand-navy {
+        font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        fill: #0B2540;
+      }
+      .brand-green {
+        font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        fill: #00A859;
+      }
+      .brand-white {
+        font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-weight: 900;
+        fill: #FFFFFF;
+      }
+      .brand-sub {
+        font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+        font-weight: 700;
+        letter-spacing: 2.5px;
+        fill: #64748B;
+        font-size: 13px;
+      }
+    </style>
+  </defs>
+
+  <!-- Left Emblem: T24 Squircle -->
+  <g transform="translate(5, 10)">
+    <!-- Squircle Base -->
+    <rect width="100" height="100" rx="28" fill="#0B2540" />
+    
+    <!-- T24 inside squircle -->
+    <text x="12" y="72" class="brand-white" font-size="56" letter-spacing="-1">T</text>
+    <text x="47" y="72" class="brand-green" font-size="56" letter-spacing="-1">24</text>
+  </g>
+
+  <!-- Right Wordmark: Tajriba24.uz + Subtitle -->
+  <g transform="translate(125, 15)">
+    <!-- Tajriba in Navy -->
+    <text x="0" y="62" class="brand-navy" font-size="64" letter-spacing="-1.2">Tajriba</text>
+    
+    <!-- 24 in Green -->
+    <text x="228" y="62" class="brand-green" font-size="64" letter-spacing="-0.8">24</text>
+    
+    <!-- .uz in Navy -->
+    <text x="306" y="62" class="brand-navy" font-size="64" letter-spacing="-0.8">.uz</text>
+
+    <!-- Tagline: POYGA • MOLIYAVIY SIMULYATSIYA -->
+    <text x="3" y="88" class="brand-sub">POYGA • MOLIYAVIY BIZNES O'YINI</text>
+  </g>
+</svg>

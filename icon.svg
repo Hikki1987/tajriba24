@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="100%">
+  <!-- Tajriba24.uz Official T24 Emblem / Favicon -->
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@900&amp;family=Outfit:wght@900&amp;display=swap');
+      .emblem-t {
+        font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif;
+        font-weight: 900;
+        fill: #FFFFFF;
+      }
+      .emblem-24 {
+        font-family: 'Outfit', 'Plus Jakarta Sans', system-ui, sans-serif;
+        font-weight: 900;
+        fill: #00A859;
+      }
+    </style>
+  </defs>
+
+  <!-- Deep Navy Squircle Base -->
+  <rect width="160" height="160" rx="42" fill="#0B2540" />
+
+  <!-- Centered T24 Mark -->
+  <g transform="translate(16, 114)">
+    <!-- Letter T in White -->
+    <text x="0" y="0" class="emblem-t" font-size="88" letter-spacing="-2">T</text>
+    
+    <!-- Digits 24 in Emerald Green -->
+    <text x="56" y="0" class="emblem-24" font-size="88" letter-spacing="-2">24</text>
+  </g>
+</svg>
